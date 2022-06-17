@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
@@ -25,4 +25,18 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+</style> -->
+
+<template>
+  <div>我是根组件</div>
+</template>
+
+<script>
+/* export default {
+  name:'',
+} */
+</script>
+
+<style scoped>
+
 </style>
