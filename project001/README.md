@@ -1,6 +1,6 @@
 # project001
 
-> A Vue.js project
+> A Vue.js project for personal learning
 
 ## Build Setup
 
